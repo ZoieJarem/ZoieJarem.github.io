@@ -268,5 +268,21 @@ video {
   .nav-bar {
     justify-content: space-between;
     padding: 1rem 0;
+    margin: 1rem auto;
+    line-height: 1rem auto 2rem auto;
+  }
+  .nav-menu {
+    width: auto;
+    justify-self: end;
+  }
+  .logo {
+    margin: 0, 0, 0, 0.3;
+    justify-self: start;
+  }
+  .hero-nav {
+    width: 100%;
+  }
+  .footer-nav {
+    justify-content: space-evenly;
   }
 }
